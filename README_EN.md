@@ -16,11 +16,11 @@ Analysis of a Netflix dataset using Python with the Pandas and Seaborn library.
 
 ## ▶️ How to run the code
 
-- Clona o descarga el proyecto.
-- Guarda el código en un archivo, por ejemplo: analisis_netflix.py.
-- Abre una terminal o consola.
-- Navega hasta la carpeta donde guardaste el archivo.
-- Ejecuta el programa.
+- Clone or download the project.
+- Save the code in a file, for example: analisis_netflix.py .
+- Open a terminal or console.
+- Navigate to the folder where you saved the file.
+- Run the program.
 
 </br>
 
