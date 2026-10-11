@@ -1,6 +1,6 @@
-# 📌 Analisis_Netflix
-Análisis de un dataset de Netflix utilizando Python con la biblioteca Pandas y Seaborn.
-## 🖥️ Tecnologías Utilizadas:
+# 📌 Analysis_Netflix
+Analysis of a Netflix dataset using Python with the Pandas and Seaborn library.
+## 🖥️ Technologies Used:
 
 - Python
 - Pandas
@@ -8,13 +8,13 @@ Análisis de un dataset de Netflix utilizando Python con la biblioteca Pandas y 
 - Jupiter Notbook
 - Colab
 
-## 📦 Requisitos:
+## 📦 Requirements:
 
-- Utilizar Google Colab.
-- Importar la biblioteca Pandas.
-- Importar la biblioteca Seaborn.
+- Use Google Colab.
+- Import the Pandas library.
+- Import the Seaborn library.
 
-## ▶️ Cómo ejecutar el código
+## ▶️ How to run the code
 
 - Clona o descarga el proyecto.
 - Guarda el código en un archivo, por ejemplo: analisis_netflix.py.
