@@ -1,5 +1,6 @@
 # 📌 Analisis_Netflix
-Análisis de un dataset de Netflix utilizando Python con la biblioteca Pandas y Seaborn.
+En octubre de 2024, como parte del curso de Big Data de Samsung Innovation Campus, se planteó un proyecto de análisis exploratorio de datos (EDA) sobre el catálogo global de Netflix en un dataset. El objetivo era entender qué tipo de contenido domina en la plataforma, analizando distribución por género, producción geográfica y evolución temporal. 
+
 ## 🖥️ Tecnologías Utilizadas:
 
 - Python
